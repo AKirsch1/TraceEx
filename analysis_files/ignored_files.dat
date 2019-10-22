@@ -1,0 +1,12 @@
+/dev/null
+/dev/zero
+/dev/full
+/dev/random
+/dev/urandom
+/dev/
+/etc/passwd
+/etc/shadow
+/etc/group
+/etc/localtime
+/proc/
+/usr/lib/locale/locale-archive
