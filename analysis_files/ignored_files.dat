@@ -3,10 +3,10 @@
 /dev/full
 /dev/random
 /dev/urandom
-/dev/
 /etc/passwd
 /etc/shadow
 /etc/group
 /etc/localtime
 /proc/
+/sys/
 /usr/lib/locale/locale-archive
